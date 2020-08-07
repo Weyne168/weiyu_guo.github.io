@@ -24,7 +24,15 @@
        <p><h3><b>工作经历</b></h3></p>
         <ul type="circle"><li><p>讲师(2018.09至今)&nbsp&nbsp中央财经大学,&nbsp信息学院</p></li>
         <p>--讲授课程:人工智能、机器学习、智能计算、C++等。</p>
-        <li><p>硕士(2010.09-2012.07)&nbsp&nbsp南京大学,&nbsp软件工程,&nbsp导师：王金庆</p></li>
+        <li><p>博士后(2016.08-2018.09)&nbsp&nbsp中国科学院自动化研究所,&nbsp模式识别国家重点实验室,&nbsp合作导师：王亮</p></li>
+        <p>--主要工作:深度神经网络模型加速、图像分割</p>
+        <li><p>本科(2006.09-2010.07)&nbsp&nbsp山西大学,&nbsp计算机科学与技术</p></li>
+        </ul>
+        <p><h3><b>论文列表</b></h3></p>
+        <ul type="circle"><li><p>Xinhui Wu, Weizhi An, Shiqi Yu, <b>Weiyu Guo</b>, Edel B. García Reyes. Spatial-Temporal Graph Attention Network for Video-Based Gait Recognition. <i>Pattern Recognition - 5th Asian Conference(ACPR)</i>, 2019.</p></li>
+        <p>--讲授课程:人工智能、机器学习、智能计算、C++等。</p>
+        <li><p>博士后(2016.08-2018.09)&nbsp&nbsp中国科学院自动化研究所,&nbsp模式识别国家重点实验室,&nbsp合作导师：王亮</p></li>
+        <p>--主要工作:深度神经网络模型加速、图像分割</p>
         <li><p>本科(2006.09-2010.07)&nbsp&nbsp山西大学,&nbsp计算机科学与技术</p></li>
         </ul>
       </td>
