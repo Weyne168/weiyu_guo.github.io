@@ -1,4 +1,4 @@
-<center># [郭韦昱](http://ie.cufe.edu.cn/info/1095/3621.htm)</center>
+# <center>[郭韦昱](http://ie.cufe.edu.cn/info/1095/3621.htm)</center>
 <table border="0">
   <tr>
     <td width="75%";id="class" align="center" style= "margin: 0cm 0cm 0pt; text-align: left">
