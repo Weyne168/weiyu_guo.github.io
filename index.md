@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%";id="class" align="center" style= "margin: 0cm 0cm 0pt; text-align: left">
-      <h1>[郭韦昱](http://ie.cufe.edu.cn/info/1095/3621.htm)</h1>
+      <h1>![郭韦昱](http://ie.cufe.edu.cn/info/1095/3621.htm)</h1>
       <p>邮箱：guoweiyu168@hotmail.com</p>
       <p>地址：北京市昌平区，沙河高教园，学院7号313室</p>
     </td>
