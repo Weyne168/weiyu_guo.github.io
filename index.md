@@ -20,10 +20,10 @@
         <li><p>本科&nbsp;(2006.09--2010.07)&nbsp;&nbsp;&nbsp;&nbsp;山西大学,&nbsp;&nbsp;计算机科学与技术</p></li>
         </ul>
        <p><h3><b>工作经历:</b></h3></p>
-        <ul type="circle"><li><p>讲师&nbsp;(2018.09至今)&nbsp;&nbsp;&nbsp;&nbsp;中央财经大学,&nbsp;&nbsp;信息学院</p></li>
-        <p>--讲授课程:&nbsp;人工智能、机器学习、智能计算、C++等。</p>
+        <ul type="circle"><li><p>讲师&nbsp;(2018.09--至今)&nbsp;&nbsp;&nbsp;&nbsp;中央财经大学,&nbsp;&nbsp;信息学院</p></li>
+        <p>--讲授课程:&nbsp;人工智能、机器学习、智能计算、C++等.</p>
         <li><p>博士后&nbsp;(2016.08--2018.09)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;合作导师:&nbsp;&nbsp;王亮</p></li>
-        <p>--主要工作:深度神经网络模型加速、图像分割</p>
+        <p>--主要工作:&nbsp;深度神经网络模型加速、图像分割.</p>
         </ul>
         <p><h3><b>论文列表:</b></h3></p>
         <ul type="circle">
