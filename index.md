@@ -11,17 +11,11 @@
     </td>
   </tr>
   <tr>
-      <td>
+      <td><p>
       <ul type="circle">
           <li>西游记</li>
-
-          <li>水浒传</li>
-
-          <li>三国演义</li>
-
-          <li>红楼梦</li>
-
       </ul>
+      </p>
       </td>
   </tr>
 </table>
