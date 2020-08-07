@@ -1,8 +1,3 @@
-#class td /*设置表格文字左右和上下居中对齐*/ 
-{  
-    vertical-align: middle;
-    text-align: center;  
-}
 
 <table border="0">
   <tr>
