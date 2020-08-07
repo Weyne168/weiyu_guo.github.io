@@ -29,11 +29,16 @@
         <li><p>本科(2006.09-2010.07)&nbsp&nbsp山西大学,&nbsp计算机科学与技术</p></li>
         </ul>
         <p><h3><b>论文列表</b></h3></p>
-        <ul type="circle"><li><p>Xinhui Wu, Weizhi An, Shiqi Yu, <b>Weiyu Guo</b>, Edel B. García Reyes. Spatial-Temporal Graph Attention Network for Video-Based Gait Recognition. <i>Pattern Recognition - 5th Asian Conference(ACPR)</i>, 2019.</p></li>
-        <p>--讲授课程:人工智能、机器学习、智能计算、C++等。</p>
-        <li><p>博士后(2016.08-2018.09)&nbsp&nbsp中国科学院自动化研究所,&nbsp模式识别国家重点实验室,&nbsp合作导师：王亮</p></li>
-        <p>--主要工作:深度神经网络模型加速、图像分割</p>
-        <li><p>本科(2006.09-2010.07)&nbsp&nbsp山西大学,&nbsp计算机科学与技术</p></li>
+        <ul type="circle">
+        <li><p>Xinhui Wu, Weizhi An, Shiqi Yu, <b>Weiyu Guo</b>, Edel B. García Reyes. Spatial-Temporal Graph Attention Network for Video-Based Gait Recognition. <i>Pattern Recognition - 5th Asian Conference(ACPR)</i>, 2019.</p></li>
+        <li><p>Ma JB, <b>Guo Weiyu</b>, Wang W,et al. RotateConv: Making Asymmetric Convolutional Kernels Rotatable.
+<i>International Conference on Pattern Recognition (ICPR)<\i>, August 20-24 2018.</p></li>
+       <li><p>Shu Wu, <b>Weiyu Guo</b>, Song Xu, Yongzhen Huang, Liang Wang, Tieniu Tan Coupled Topic Model for Collaborative Filtering with User-Generated Content, <i>IEEE Transactions on Human-Machine Systems</i>, March, 2016.</p></li>
+       <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang, Tieniu Tan, Personalized Ranking with Pairwise Factorization Machines, <i>Neurocomputing</i>, March, 2016.</p></li>
+       <li><b>Weiyu Guo</b>, Shu Wu, Liang Wang, Tieniu Tan, Social-Relational Topic Model for Social Networks, <i>ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2015.</p></li>
+       <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang, Tieniu Tan, Adaptive Pairwise Learning for Personalized Ranking with Content and Implicit Feedback, <i>IEEE/WIC International Conference on Web Intelligence (WI)</i>, 2015.</p></li>
+       <li><p>><b>Weiyu Guo</b>, Shu Wu, Liang Wang, Tieniu Tan, Multiple Attribute Aware Personalized Ranking, <i>Asia Pacific Web Conference (APWeb)</i>, 2015.</p></li>
+       <li><p>李双红; 李茹; 钟立军; <b>郭韦昱</b>. 基于多词块的框架元素语义核心词自动识别研究. <i>中文信息学报</i>, 2010, 24(1).</p></li>
         </ul>
       </td>
   </tr>
