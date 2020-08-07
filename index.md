@@ -1,7 +1,7 @@
 <div align='center' ><h1>郭韦昱</h1></div>
 <table border="0">
   <tr>
-    <td width="100%";id="class" align="center" style= "margin: 0cm 0cm 0pt; text-align: left">
+    <td width="100%" align="center" style= "margin: 0cm 0cm 0pt; text-align: left">
       <p>邮箱：guoweiyu168@hotmail.com</p>
       <p>地址：北京市昌平区，沙河高教园，学院7号313室</p>
     </td>
