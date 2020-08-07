@@ -1,4 +1,4 @@
-<div align='center'><a href='http://ie.cufe.edu.cn/info/1095/3621.ht'><font size='200'>郭韦昱</font></a></div>
+<center><font size=7 color=blue>郭韦昱</font></center>
 <table border="0">
   <tr>
     <td width="75%";id="class" align="center" style= "margin: 0cm 0cm 0pt; text-align: left">
