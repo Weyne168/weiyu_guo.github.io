@@ -1,4 +1,3 @@
-![RUNOOB](http://static.runoob.com/images/runoob-logo.png)
 <div align='center' ><h1>郭韦昱</h1></div>
 <table border="0">
   <tr>
