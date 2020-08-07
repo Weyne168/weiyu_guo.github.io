@@ -13,8 +13,9 @@
   <tr>
       <td width="100%"><p>
       <ul type="circle">
-          <li>西游记</li>
+          <li>研究方向</li>
       </ul>
+      效信息效信息
       </p>
       </td>
   </tr>
