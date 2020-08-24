@@ -28,7 +28,7 @@
         <p><h3><b>论文列表:</b></h3></p>
         <ul type="circle">
         <li><p><b>Weiyu Guo</b>, Bin Cao, Zhengxing Li. Explainable Enterprise Rating using Attention based Convolutional Neural Network. <i>International Conference on Web Information Systems and Applications(WISA)</i>, 2020.</p></li>
-         <li><p>Chen Bing, Wang Xiuli, Wang Yue,<b>Weiyu Guo</b>. An Interpretable Personal Credit Evaluation Model. <i>International Conference of Pioneering Computer Scientists, Engineers and Educators(CCCI)</i>, 2020.</p></li>
+         <li><p>Chen Bing, Wang Xiuli, Wang Yue, <b>Weiyu Guo</b>. An Interpretable Personal Credit Evaluation Model. <i>International Conference of Pioneering Computer Scientists, Engineers and Educators(CCCI)</i>, 2020.</p></li>
         <li><p>Xinhui Wu, Weizhi An, Shiqi Yu, <b>Weiyu Guo</b>, Edel B. García Reyes. Spatial-Temporal Graph Attention Network for Video-Based Gait Recognition. <i>Pattern Recognition - 5th Asian Conference(ACPR)</i>, 2019.</p></li>
         <li><p>Ma JB, <b>Guo Weiyu</b>, Wang W,et al. RotateConv: Making Asymmetric Convolutional Kernels Rotatable.
 <i>International Conference on Pattern Recognition (ICPR)</i>, August 20-24 2018.</p></li>
