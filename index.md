@@ -22,9 +22,9 @@
        <p><h3><b>工作经历:</b></h3></p>
         <ul type="circle">
         <li><p>副教授&nbsp;(2021.12--至今)&nbsp;&nbsp;&nbsp;&nbsp;中央财经大学,&nbsp;&nbsp;信息学院.</p></li>
-        <p>--讲授课程:&nbsp;人工智能、机器学习、智能计算、C++等.</p>
+        <p>--讲授课程:&nbsp;人工智能、深度学习、智能计算、网络数据采集等.</p>
         <li><p>讲师&nbsp;(2018.09--2021.11)&nbsp;&nbsp;&nbsp;&nbsp;中央财经大学,&nbsp;&nbsp;信息学院.</p></li>
-        <p>--讲授课程:&nbsp;人工智能、机器学习、智能计算、C++等.</p>
+        <p>--讲授课程:&nbsp;人工智能、机器学习、智能计算、C++、Python等.</p>
         <li><p>博士后&nbsp;(2016.08--2018.09)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;合作导师:&nbsp;&nbsp;王亮.</p></li>
         <p>--主要工作:&nbsp;深度神经网络模型加速、图像分割.</p>
         </ul>
