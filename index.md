@@ -20,7 +20,8 @@
         <li><p>本科&nbsp;(2006.09--2010.07)&nbsp;&nbsp;&nbsp;&nbsp;山西大学,&nbsp;&nbsp;计算机科学与技术.</p></li>
         </ul>
        <p><h3><b>工作经历:</b></h3></p>
-        <ul type="circle"><li><p>副教授&nbsp;(2021.12--至今)&nbsp;&nbsp;&nbsp;&nbsp;中央财经大学,&nbsp;&nbsp;信息学院.</p></li>
+        <ul type="circle">
+        <li><p>副教授&nbsp;(2021.12--至今)&nbsp;&nbsp;&nbsp;&nbsp;中央财经大学,&nbsp;&nbsp;信息学院.</p></li>
         <p>--讲授课程:&nbsp;人工智能、机器学习、智能计算、C++等.</p>
         <ul type="circle"><li><p>讲师&nbsp;(2018.09--2021.11)&nbsp;&nbsp;&nbsp;&nbsp;中央财经大学,&nbsp;&nbsp;信息学院.</p></li>
         <p>--讲授课程:&nbsp;人工智能、机器学习、智能计算、C++等.</p>
