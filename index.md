@@ -30,12 +30,9 @@
         <ul type="circle">
         <li><p>Ling Tan, <b>Weiyu Guo</b>, Jinqiu Wang. Workpiece Surface Defect Detection Based on Prototype Network With Blur Pooling. <i>The 40th Chinese Control Conference</i>, 2021.</p></li>
         <li><p>Fu Chen, Huoyu Jia, Kun Liu, Wenying Tang, Jianming Zhu and <b>Weiyu Guo</b>, A New Attack Method for Malicious Nodes in Tangle Network. <i>IEEE International Conference on Smart Cloud</i>, Washington, USA, 2020.11.6-2020.11.8.</p></li>
-
   <li><p>Qian Hong, Yue Wang, Huan Li, Yuechen Zhao, <b>Weiyu Guo</b> and Xiuli Wang. Probing Filters to Interpret CNN Semantic Configurations by Occlusion. <i>International Conference of Pioneering Computer Scientists, Engineers and Educators</i>, 2021.</p></li>
-    
     <li><p>Qi Chunqi, Yuechen Zhao, Yue Wang, Yapu Zhao, Qian Hong, Xiuli Wang, and <b>Weiyu Guo</b>. Analyzing Interpretability Semantically via CNN Visualization. <i>International Conference of Pioneering Computer Scientists, Engineers and Educators</i>, 2021.</p></li>
 <li><p>Wang Shan, Yue Wang, Qilong Zhao, Zhijiang Yang, <b>Weiyu Guo</b>, and Xiuli Wang. Exploring Classification Capability of CNN Features. <i>International Conference of Pioneering Computer Scientists, Engineers and Educators</i>, 2021.</p></li>
-  
         <li><p><b>Weiyu Guo</b>, Bin Cao, Zhengxing Li. Explainable Enterprise Rating using Attention based Convolutional Neural Network. <i>International Conference on Web Information Systems and Applications(WISA)</i>, 2020.</p></li>
          <li><p>Chen Bing, Wang Xiuli, Wang Yue, <b>Weiyu Guo</b>. An Interpretable Personal Credit Evaluation Model. <i>International Conference of Pioneering Computer Scientists, Engineers and Educators(CCCI)</i>, 2020.</p></li>
         <li><p>Xinhui Wu, Weizhi An, Shiqi Yu, <b>Weiyu Guo</b>, Edel B. García Reyes. Spatial-Temporal Graph Attention Network for Video-Based Gait Recognition. <i>Pattern Recognition - 5th Asian Conference(ACPR)</i>, 2019.</p></li>
