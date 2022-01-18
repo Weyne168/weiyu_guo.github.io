@@ -23,7 +23,8 @@
         <ul type="circle">
         <li><p>副教授(Associate professor)&nbsp;&nbsp;&nbsp;&nbsp;2021.12--Now</p></li>
         <p>--中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;&nbsp;&nbsp;信息学院(Informaiton School).</p>
-        <p>--讲授课程(teach courses):&nbsp;人工智能(Artificial intelligence)、深度学习(Deep learning)、<br>智能计算(Intelligent computing)、网络数据采集(Web crawler)等.</p>
+        <p>--讲授课程(teach courses):</p>
+          <p>人工智能(Artificial intelligence)、深度学习(Deep learning)、智能计算(Intelligent computing)、网络数据采集(Web crawler)等.</p>
         <li><p>讲师(Assistant Professor)&nbsp;(2018.09--2021.11)&nbsp;&nbsp;&nbsp;<br> 中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;信息学院(Informaiton School).</p></li>
         <p>--讲授课程(teach courses):&nbsp;人工智能(Artificial intelligence)、机器学习(Machine learning)、智能计算、C++、Python等.</p>
         <li><p>博士后&nbsp;(2016.08--2018.09)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;合作导师:&nbsp;&nbsp;王亮.</p></li>
