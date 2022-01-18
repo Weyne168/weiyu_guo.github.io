@@ -29,10 +29,11 @@
             <p>--中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;&nbsp;&nbsp;信息学院(Informaiton School).</p>
         <p>--讲授课程(teach courses):</p>
         <p>&nbsp;&nbsp;人工智能(Artificial intelligence)、机器学习(Machine learning)、智能计算、C++、Python等.</p>
-        <li><p>博士后&nbsp;(2016.08--2018.09)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;合作导师:&nbsp;&nbsp;王亮.</p></li>
-        <p>--主要工作:&nbsp;深度神经网络模型加速、图像分割.</p>
+        <li><p>博士后(Post doctor)&nbsp;&nbsp;&nbsp;&nbsp;2016.08--2018.09</p></li>
+            <p>--中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;合作导师:&nbsp;&nbsp;王亮.</p>
+            <p>--主要工作:&nbsp;深度神经网络模型加速、图像分割.</p>
         </ul>
-        <p><h3><b>论文列表:</b></h3></p>
+        <p><h3><b>论文列表(Paper list):</b></h3></p>
         <ul type="circle">
         <li><p>Ling Tan, <b>Weiyu Guo</b> and Jinqiu Wang. Workpiece Surface Defect Detection Based on Prototype Network With Blur Pooling. <i>The 40th Chinese Control Conference</i>, 2021.</p></li>
   <li><p>Fu Chen, Yujia Hou, Kun Liu, Wenying Tang, Jianming Zhu and <b>Weiyu Guo</b>. Topic Logistics Based on Node Resource Status. <i>Communications in Computer and Information Science</i>, 2021.</p></li>
