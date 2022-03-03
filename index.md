@@ -33,7 +33,7 @@
         <p>--讲授课程(Teach courses):</p>
         <p>&nbsp;&nbsp;人工智能(Artificial Intelligence)、机器学习(Machine Learning)、智能计算、C++、Python等.</p>
         <li><p>博士后(Post Doctor)&nbsp;&nbsp;&nbsp;&nbsp;2016.08--2018.09</p></li>
-            <p>--中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;合作导师:&nbsp;&nbsp;王亮.</p>
+            <p>--中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;导师:&nbsp;&nbsp;王亮.</p>
             <p>--主要工作:&nbsp;深度神经网络模型加速、图像分割.</p>
         </ul>
         <p><h3><b>论文列表(Paper list):</b></h3></p>
