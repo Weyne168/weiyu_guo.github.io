@@ -13,7 +13,7 @@
           <p>--可解释/可信的深度学习模型(Interpretable|credible deep learning model)
         <li><p>计算视觉(Computing Vision)</p></li>
            <p>--生物特征识别(Biometrics Recognition)、目标检测(Object Detect)、姿态估计(Pose Estimation)、异常检测(Anomaly Detection)</p>
-        <li><p>数据挖掘</p></li>
+        <li><p>数据挖掘(Data Mining)</p></li>
           <p>--中小企业信用评估(Sme credit assessment)、经济策略仿真与建模(Economic strategy simulation and modeling)、个性化推荐(Personalized recommendation)</p>
         </ul>
        <p><h3><b>教育经历(Education):</b></h3></p>
