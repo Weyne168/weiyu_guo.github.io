@@ -5,7 +5,6 @@
       <p>地址：北京市昌平区，沙河高教园，学院7号313室</p>
     </td>
   </tr>
-
 <table border="0" frame="void">   
 <tr align='center'>
  <td width="18%"><h3><a href="#interest">研究兴趣<br>Research Interests</a></h3></td>
@@ -17,7 +16,6 @@
 </tr>
 </table>
 </div>
-
 <table border="0">
   <tr>
       <td width="100%">
@@ -25,10 +23,9 @@
         <ul type="circle"><li><p>人工智能(Artificial intelligence)</p></li>
           <p>--可解释/可信的深度学习模型(Interpretable|credible deep learning model)
         <li><p>计算视觉(Computing Vision)</p></li>
-           <p>--生物特征识别(Biometrics Recognition)、目标检测(Object Detect)、姿态估计(Pose Estimation)、异常检测(Anomaly Detection)</p>
+           <p>--生物特征识别(Biometrics Recognition), 目标检测(Object Detect), 姿态估计(Pose Estimation), 异常检测(Anomaly Detection)</p>
         <li><p>数据挖掘(Data Mining)</p></li>
-          <p>--中小企业信用评估(Sme credit assessment)、经济策略仿真与建模(Economic strategy simulation and modeling)、个性化推荐(Personalized recommendation)</p>
-        </ul>
+          <p>--中小企业信用评估(Sme credit assessment), 经济策略仿真与建模(Economic strategy simulation and modeling), 个性化推荐(Personalized recommendation)</p></ul>
        <p><h3 id="education"><b>教育经历(Education):</b></h3></p>
        <ul type="circle">
        <li><p>博士(Phd)&nbsp;(2012.09--2016.07)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院大学(原中国科学院研究生院),&nbsp;&nbsp;计算机应用,&nbsp;&nbsp;导师:&nbsp;&nbsp;谭铁牛.</p></li>
@@ -68,8 +65,7 @@
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Social-Relational Topic Model for Social Networks, <i>ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2015.</p></li>
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Adaptive Pairwise Learning for Personalized Ranking with Content and Implicit Feedback. <i>IEEE/WIC International Conference on Web Intelligence (WI)</i>, 2015.</p></li>
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Multiple Attribute Aware Personalized Ranking. <i>Asia Pacific Web Conference (APWeb)</i>, 2015.</p></li>
-       <li><p>李双红; 李茹; 钟立军; <b>郭韦昱</b>. 基于多词块的框架元素语义核心词自动识别研究. <i>中文信息学报</i>, 2010, 24(1).</p></li>
-       </ul>
+       <li><p>李双红; 李茹; 钟立军; <b>郭韦昱</b>. 基于多词块的框架元素语义核心词自动识别研究. <i>中文信息学报</i>, 2010, 24(1).</p></li></ul>
       <p><h3 id="pattern"><b>专利(Patent list):</b></h3></p>
       <ul type="circle">
       <li><p><b>郭韦昱</b>;李肖;王秀利;王悦.人体骨骼关节点提取模型的训练数据生成方法及装置. 专利(申请)号:202111644931.1.</p></li>
@@ -91,7 +87,4 @@
       <li>国家自然科学基金, 面上基金项目, 61772528, 融合实体特征和序列信息的用户行为建模方法研究, 2018/01-2021/12, 参加.</li>
       <li>国家自然科学基金, 青年科学项目, 61403390, 融合实体和交互上下文信息的社会化推荐方法研究, 2015/01-2017/12, 参加.</li>
       <li>国家自然科学基金, 青年科学项目, 61100109, 基于条件随机场理论的非模态输入草图实时解析研究, 参加.</li>
-      </ul>
-      </td>
-  </tr>
-</table>
+      </ul></td></tr></table>
