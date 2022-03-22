@@ -6,7 +6,7 @@
     </td>
      <td></td>
   </tr>
- <table border="0">
+
     
 <tr>
  <td  width="16%"><h3><a href="#interest">研究兴趣</br>Research Interests</a></h3></td>
@@ -16,7 +16,8 @@
  <td width="10%"><h3><a href="#pattern">专利</br>Patterns</a></h3></td>
  <td width="16%"><h3><a href="#project">科研项目</br>Research Projects</a></h3></td>
 </tr>
-</table>
+
+
 </div>
 <table border="0">
 
