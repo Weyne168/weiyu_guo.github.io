@@ -1,14 +1,15 @@
-<div align='center' ><h1>郭韦昱(Weiyu Guo)</h1></div>
+<div align='center' ><h1>郭韦昱(Weiyu Guo)</h1>
+
+<a href="#biaoti01">标题一</a>
+<a href="#biaoti02">标题二</a>
+<a href="#biaoti03">标题三</a>
+<a href="#biaoti04">标题四</a>
+</div>
 <table border="0">
-  <tr>
-    <td width="100%" align="center" style= "margin: 0cm 0cm 0pt; text-align: left">
-      <p>邮箱(Email)：weiyu.guo@cufe.edu.cn</p>
-      <p>地址：北京市昌平区，沙河高教园，学院7号313室</p>
-    </td>
-  </tr>
+
   <tr>
       <td width="100%">
-        <p><h3><b>研究兴趣(Research Interests ):</b></h3></p>
+        <p><h3 id="interest"><b>研究兴趣(Research Interests ):</b></h3></p>
         <ul type="circle"><li><p>人工智能(Artificial intelligence)</p></li>
           <p>--可解释/可信的深度学习模型(Interpretable|credible deep learning model)
         <li><p>计算视觉(Computing Vision)</p></li>
@@ -16,13 +17,13 @@
         <li><p>数据挖掘(Data Mining)</p></li>
           <p>--中小企业信用评估(Sme credit assessment)、经济策略仿真与建模(Economic strategy simulation and modeling)、个性化推荐(Personalized recommendation)</p>
         </ul>
-       <p><h3><b>教育经历(Education):</b></h3></p>
+       <p><h3 id="education"><b>教育经历(Education):</b></h3></p>
        <ul type="circle">
         <li><p>博士(Phd)&nbsp;(2012.09--2016.07)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院大学(原中国科学院研究生院),&nbsp;&nbsp;计算机应用,&nbsp;&nbsp;导师:&nbsp;&nbsp;谭铁牛.</p></li>
         <li><p>硕士(Master)&nbsp;(2010.09--2012.07)&nbsp;&nbsp;&nbsp;&nbsp;南京大学,&nbsp;&nbsp;软件工程,&nbsp;&nbsp;导师:&nbsp;&nbsp;王金庆.</p></li>
         <li><p>本科(Bachelor)&nbsp;(2006.09--2010.07)&nbsp;&nbsp;&nbsp;&nbsp;山西大学,&nbsp;&nbsp;计算机科学与技术&工商管理.</p></li>
         </ul>
-       <p><h3><b>工作经历:</b></h3></p>
+       <p><h3 id="occupation"><b>工作经历:</b></h3></p>
         <ul type="circle">
         <li><p>副教授(Associate Professor)&nbsp;&nbsp;&nbsp;&nbsp;2021.12--Now</p></li>
         <p>--中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;&nbsp;&nbsp;信息学院(Informaiton School).</p>
@@ -36,7 +37,7 @@
             <p>--中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;导师:&nbsp;&nbsp;王亮.</p>
             <p>--主要工作:&nbsp;深度神经网络模型加速、图像分割.</p>
         </ul>
-        <p><h3><b>论文列表(Paper list):</b></h3></p>
+        <p><h3 id="paper"><b>论文列表(Paper list):</b></h3></p>
         <ul type="circle">
           <li><p><b>Weiyu Guo</b>, Jiabin Ma, Yidong Ouyang, Liang Wang and Yongzhen Huang. Efficient Convolutional Networks Learning through Irregular Convolutional Kernels. <i>Neurocomputing</i>, 2022, 489:167-178.</p></li>
         <li><p>Ling Tan, <b>Weiyu Guo</b> and Jinqiu Wang. Workpiece Surface Defect Detection Based on Prototype Network With Blur Pooling. <i>The 40th Chinese Control Conference</i>, 2021.</p></li>
@@ -57,7 +58,7 @@
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Multiple Attribute Aware Personalized Ranking. <i>Asia Pacific Web Conference (APWeb)</i>, 2015.</p></li>
        <li><p>李双红; 李茹; 钟立军; <b>郭韦昱</b>. 基于多词块的框架元素语义核心词自动识别研究. <i>中文信息学报</i>, 2010, 24(1).</p></li>
        </ul>
-      <p><h3><b>专利(Patent list):</b></h3></p>
+      <p><h3 id="pattern"><b>专利(Patent list):</b></h3></p>
       <ul type="circle">
       <li><p><b>郭韦昱</b>;李肖;王秀利;王悦.人体骨骼关节点提取模型的训练数据生成方法及装置. 专利(申请)号:202111644931.1.</p></li>
       <li><p><b>郭韦昱</b>. 一种信鸽的身份信息分析方法及装置. 专利(申请)号: 201911077259.5.</p></li>
@@ -70,7 +71,7 @@
       <li><p>黄永祯; 覃道亮; <b>郭韦昱</b>. 一种运动姿态评估方法及系统. 专利号: 201711408821.9(有权).</p></li>
       <li><p>谭铁牛; 王亮; 吴书; <b>郭韦昱</b>. 基于用户偏好的自适应采样方法. 专利号: 201610041393.X(有权).</p></li>
       </ul>
-      <p><h3><b>项目(Projects|RFDP):</b></h3></p>
+      <p><h3 id="project"><b>项目(Projects|RFDP):</b></h3></p>
       <ul type="circle">
       <li>国家自然科学基金, 青年基金项目, 62106290, 基于深度学习的中小企业可解释性信用评估关键技术研究, 2022/01-2024/12, 主持.</li>
       <li>中国计算机学会, 信息系统开放课题, 基于深度神经网络的公司信用违约预测模型及模型的可理解性研究, 2019/11-2022/10, 主持.</li>
