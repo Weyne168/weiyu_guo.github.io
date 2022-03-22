@@ -20,12 +20,13 @@
   <tr>
       <td width="100%">
         <p><h3 id="interest"><b>研究兴趣(Research Interests ):</b></h3></p>
-        <ul type="circle"><li><p>人工智能(Artificial intelligence)</p></li>
-          <p>--可解释/可信的深度学习模型(Interpretable|credible deep learning model)
+        <ul type="circle">
+         <li><p>人工智能(Artificial intelligence)</p></li>
+          <p>可解释/可信的深度学习模型(Interpretable|credible deep learning model)</p>
         <li><p>计算视觉(Computing Vision)</p></li>
-           <p>--生物特征识别(Biometrics Recognition), 目标检测(Object Detect), 姿态估计(Pose Estimation), 异常检测(Anomaly Detection)</p>
+           <p>生物特征识别(Biometrics Recognition), 目标检测(Object Detect), 姿态估计(Pose Estimation), 异常检测(Anomaly Detection)</p>
         <li><p>数据挖掘(Data Mining)</p></li>
-          <p>--中小企业信用评估(Sme credit assessment), 经济策略仿真与建模(Economic strategy simulation and modeling), 个性化推荐(Personalized recommendation)</p></ul>
+          <p>中小企业信用评估(Sme credit assessment), 经济策略仿真与建模(Economic strategy simulation and modeling), 个性化推荐(Personalized recommendation)</p></ul>
        <p><h3 id="education"><b>教育经历(Education):</b></h3></p>
        <ul type="circle">
        <li><p>博士(Phd)&nbsp;(2012.09--2016.07)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院大学(原中国科学院研究生院),&nbsp;&nbsp;计算机应用,&nbsp;&nbsp;导师:&nbsp;&nbsp;谭铁牛.</p></li>
@@ -35,12 +36,12 @@
        <p><h3 id="occupation"><b>工作经历(Occupation):</b></h3></p>
         <ul type="circle">
         <li><p>副教授(Associate Professor)&nbsp;&nbsp;&nbsp;&nbsp;2021.12--Now</p></li>
-        <p>--中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;&nbsp;&nbsp;信息学院(Informaiton School).</p>
-        <p>--讲授课程(Teach courses):</p>
+        <p>中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;&nbsp;&nbsp;信息学院(Informaiton School).</p>
+        <p>讲授课程(Teach courses):</p>
           <p>&nbsp;&nbsp;人工智能(Artificial Intelligence)、深度学习(Deep Learning)、智能计算(Intelligent Computing)、网络数据采集(Web crawler)等.</p>
         <li><p>讲师(Assistant Professor)&nbsp;&nbsp;&nbsp;&nbsp;2018.09--2021.11</p></li>
-            <p>--中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;&nbsp;&nbsp;信息学院(Informaiton School).</p>
-        <p>--讲授课程(Teach courses):</p>
+            <p>中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;&nbsp;&nbsp;信息学院(Informaiton School).</p>
+        <p>讲授课程(Teach courses):</p>
         <p>&nbsp;&nbsp;人工智能(Artificial Intelligence)、机器学习(Machine Learning)、智能计算、C++、Python等.</p>
         <li><p>博士后(Post Doctor)&nbsp;&nbsp;&nbsp;&nbsp;2016.08--2018.09</p></li>
             <p>--中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;导师:&nbsp;&nbsp;王亮.</p>
