@@ -3,12 +3,12 @@
 </div>
 <table border="0">
 <tr>
- <td><h2><a href="#interest">研究兴趣</a></h2></td>
-  <td><h2><a href="#education">教育经历</a></h2></td>
-  <td><h2><a href="#occupation">工作经历</a></h2></td>
-  <td><h2><a href="#paper">论文</a></h2></td>
-  <td><h2><a href="#pattern">专利</a></h2></td>
-  <td><h2><a href="#project">科研项目</a></h2></td>
+ <td><h3><a href="#interest">研究兴趣</a></h3></td>
+ <td><h3><a href="#education">教育经历</a></h3></td>
+ <td><h3><a href="#occupation">工作经历</a></h3></td>
+ <td><h3><a href="#paper">论文</a></h3></td>
+ <td><h3><a href="#pattern">专利</a></h3></td>
+ <td><h3><a href="#project">科研项目</a></h3></td>
 </tr>
   <tr>
       <td width="100%">
