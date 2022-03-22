@@ -8,12 +8,12 @@
 
 <table border="0" frame="void">   
 <tr align='center'>
- <td width="16%"><h3><a href="#interest">研究兴趣Research Interests</a></h3></td>
+ <td width="16%"><h3><a href="#interest">研究兴趣&nbsp;Research Interests</a></h3></td>
  <td width="16%"><h3><a href="#education">教育经历Education</a></h3></td>
  <td width="16%"><h3><a href="#occupation">工作经历Occupation</a></h3></td>
  <td width="10%"><h3><a href="#paper">论文Papers</a></h3></td>
  <td width="10%"><h3><a href="#pattern">专利Patterns</a></h3></td>
- <td width="15%"><h3><a href="#project">科研项目Research Projects</a></h3></td>
+ <td width="16%"><h3><a href="#project">科研项目&nbsp;Research Projects</a></h3></td>
 </tr>
 </table>
 </div>
