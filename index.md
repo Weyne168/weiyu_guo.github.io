@@ -29,7 +29,6 @@
         <li><p>数据挖掘(Data Mining)</p></li>
           <p>--中小企业信用评估(Sme credit assessment)、经济策略仿真与建模(Economic strategy simulation and modeling)、个性化推荐(Personalized recommendation)</p>
         </ul>
- 
        <p><h3 id="education"><b>教育经历(Education):</b></h3></p>
        <ul type="circle">
        <li><p>博士(Phd)&nbsp;(2012.09--2016.07)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院大学(原中国科学院研究生院),&nbsp;&nbsp;计算机应用,&nbsp;&nbsp;导师:&nbsp;&nbsp;谭铁牛.</p></li>
@@ -52,7 +51,6 @@
         </ul>
         
         <p><h3 id="paper"><b>论文列表(Paper list):</b></h3></p>
-       
        <ul type="circle">
           <li><p><b>Weiyu Guo</b>, Jiabin Ma, Yidong Ouyang, Liang Wang and Yongzhen Huang. Efficient Convolutional Networks Learning through Irregular Convolutional Kernels. <i>Neurocomputing</i>, 2022, 489:167-178.</p></li>
         <li><p>Ling Tan, <b>Weiyu Guo</b> and Jinqiu Wang. Workpiece Surface Defect Detection Based on Prototype Network With Blur Pooling. <i>The 40th Chinese Control Conference</i>, 2021.</p></li>
