@@ -50,7 +50,7 @@
         <li><p>Xinhui Wu, Weizhi An, Shiqi Yu, <b>Weiyu Guo</b> and Edel B. García Reyes. Spatial-Temporal Graph Attention Network for Video-Based Gait Recognition. <i>Pattern Recognition - 5th Asian Conference(ACPR)</i>, 2019.</p></li>
         <li><p>Ma JB, <b>Guo Weiyu</b>, Wang W, et al. RotateConv: Making Asymmetric Convolutional Kernels Rotatable.
 <i>International Conference on Pattern Recognition (ICPR)</i>, August 20-24 2018.</p></li>
-       <li><p>Shu Wu, <b>Weiyu Guo</b>, Song Xu, Yongzhen Huang, Liang Wang and Tieniu Tan. Coupled Topic Model for Collaborative Filtering with User-Generated Content. <i>IEEE Transactions on Human-Machine Systems</i>, March, 2016.</p></li>
+       <li><p>Shu Wu, <b>Weiyu Guo</b>, Song Xu, Yongzhen Huang, Liang Wang and Tieniu Tan. Coupled Topic Model for Collaborative Filtering with User-Generated Content. <i>IEEE Transactions on Human-Machine Systems</i>, 2016, 46(6): 908-920.</p></li>
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Personalized Ranking with Pairwise Factorization Machines. <i>Neurocomputing</i>, 2016, 214: 191-200.</p></li>
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Social-Relational Topic Model for Social Networks, <i>ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2015.</p></li>
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Adaptive Pairwise Learning for Personalized Ranking with Content and Implicit Feedback. <i>IEEE/WIC International Conference on Web Intelligence (WI)</i>, 2015.</p></li>
