@@ -49,7 +49,6 @@
             <p>--中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;导师:&nbsp;&nbsp;王亮.</p>
             <p>--主要工作:&nbsp;深度神经网络模型加速、图像分割.</p>
         </ul>
-        
         <p><h3 id="paper"><b>论文列表(Paper list):</b></h3></p>
        <ul type="circle">
           <li><p><b>Weiyu Guo</b>, Jiabin Ma, Yidong Ouyang, Liang Wang and Yongzhen Huang. Efficient Convolutional Networks Learning through Irregular Convolutional Kernels. <i>Neurocomputing</i>, 2022, 489:167-178.</p></li>
@@ -85,7 +84,6 @@
       <li><p>谭铁牛; 王亮; 吴书; <b>郭韦昱</b>. 基于用户偏好的自适应采样方法. 专利号: 201610041393.X(有权).</p></li>
       </ul>
       <p><h3 id="project"><b>项目(Projects|RFDP):</b></h3></p>
-      
       <ul type="circle">
       <li>国家自然科学基金, 青年基金项目, 62106290, 基于深度学习的中小企业可解释性信用评估关键技术研究, 2022/01-2024/12, 主持.</li>
       <li>中国计算机学会, 信息系统开放课题, 基于深度神经网络的公司信用违约预测模型及模型的可理解性研究, 2019/11-2022/10, 主持.</li>
