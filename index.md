@@ -5,7 +5,6 @@
       <p>邮箱(Email)：weiyu.guo@cufe.edu.cn</p>
       <p>地址：北京市昌平区，沙河高教园，学院7号313室</p>
     </td>
-     <td></td>
   </tr>
  </table>
 
