@@ -18,7 +18,6 @@
 </table>
 </div>
 
-<div>
 <table border="0">
   <tr>
       <td width="100%">
@@ -33,7 +32,7 @@
  
        <p><h3 id="education"><b>教育经历(Education):</b></h3></p>
        <ul type="circle">
-        <li><p>博士(Phd)&nbsp;(2012.09--2016.07)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院大学(原中国科学院研究生院),&nbsp;&nbsp;计算机应用,&nbsp;&nbsp;导师:&nbsp;&nbsp;谭铁牛.</p></li>
+       <li><p>博士(Phd)&nbsp;(2012.09--2016.07)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院大学(原中国科学院研究生院),&nbsp;&nbsp;计算机应用,&nbsp;&nbsp;导师:&nbsp;&nbsp;谭铁牛.</p></li>
         <li><p>硕士(Master)&nbsp;(2010.09--2012.07)&nbsp;&nbsp;&nbsp;&nbsp;南京大学,&nbsp;&nbsp;软件工程,&nbsp;&nbsp;导师:&nbsp;&nbsp;王金庆.</p></li>
         <li><p>本科(Bachelor)&nbsp;(2006.09--2010.07)&nbsp;&nbsp;&nbsp;&nbsp;山西大学,&nbsp;&nbsp;计算机科学与技术&工商管理.</p></li>
         </ul>
@@ -100,4 +99,4 @@
       </ul>
       </td>
   </tr>
-</table></div>
+</table>
