@@ -1,4 +1,4 @@
-<div align='center' ><h1>郭韦昱(Weiyu Guo)</h1>
+<div align='center' ><h1><a href="http://ie.cufe.edu.cn/info/1094/4932.htm">郭韦昱(Weiyu Guo)</a></h1>
  <tr>
     <td width="100%" align="center" style= "margin: 0cm 0cm 0pt; text-align: left ">
       <p>邮箱(Email)：weiyu.guo@cufe.edu.cn</p>
