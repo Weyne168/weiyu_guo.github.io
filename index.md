@@ -1,4 +1,6 @@
 <div align='center' ><h1>郭韦昱(Weiyu Guo)</h1>
+
+</div>
 <table border="0">
 <tr>
  <td><h2><a href="#interest">研究兴趣</a></h2></td>
@@ -8,10 +10,6 @@
   <td><h2><a href="#pattern">专利</a></h2></td>
   <td><h2><a href="#project">科研项目</a></h2></td>
 </tr>
-</table>
-</div>
-<table border="0">
-
   <tr>
       <td width="100%">
         <p><h3 id="interest"><b>研究兴趣(Research Interests ):</b></h3></p>
