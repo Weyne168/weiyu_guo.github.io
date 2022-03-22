@@ -1,4 +1,4 @@
-<div align='center' ><h1><p><img src="/img/avatar_scholar_128.png" width="30" height="30">&nbsp;<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=13wGmrMAAAAJ">郭韦昱(Weiyu Guo)</a></p></h1>
+<div align='center' ><h1><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=13wGmrMAAAAJ"><p><img src="/img/avatar_scholar_128.png" width="25" height="25">&nbsp;郭韦昱(Weiyu Guo)</p></a></h1>
  <tr>
     <td width="50%" align="center" style= "margin: 0cm 0cm 0pt; text-align: left ">
       <p>邮箱(Email): weiyu.guo@cufe.edu.cn</p>
@@ -29,23 +29,23 @@
           <p>中小企业信用评估(Sme credit assessment), 经济策略仿真与建模(Economic strategy simulation and modeling), 个性化推荐(Personalized recommendation)</p></ul>
        <p><h3 id="education"><b>教育经历(Education):</b></h3></p>
        <ul type="circle">
-       <li><p>博士(Phd)&nbsp;(2012.09--2016.07)&nbsp;&nbsp;&nbsp;&nbsp;中国科学院大学(原中国科学院研究生院),&nbsp;&nbsp;计算机应用,&nbsp;&nbsp;导师:&nbsp;&nbsp;谭铁牛.</p></li>
-        <li><p>硕士(Master)&nbsp;(2010.09--2012.07)&nbsp;&nbsp;&nbsp;&nbsp;南京大学,&nbsp;&nbsp;软件工程,&nbsp;&nbsp;导师:&nbsp;&nbsp;王金庆.</p></li>
-        <li><p>本科(Bachelor)&nbsp;(2006.09--2010.07)&nbsp;&nbsp;&nbsp;&nbsp;山西大学,&nbsp;&nbsp;计算机科学与技术&工商管理.</p></li>
+       <li><p>博士(Phd), 2012.09--2016.07, 中国科学院大学(原中国科学院研究生院), 计算机应用, 导师: 谭铁牛.</p></li>
+        <li><p>硕士(Master), 2010.09--2012.07, 南京大学, 软件工程, 导师: 王金庆.</p></li>
+        <li><p>本科(Bachelor), 2006.09--2010.07, 山西大学, 计算机科学与技术&工商管理.</p></li>
         </ul>
        <p><h3 id="occupation"><b>工作经历(Occupation):</b></h3></p>
         <ul type="circle">
-        <li><p>副教授(Associate Professor)&nbsp;&nbsp;&nbsp;&nbsp;2021.12--Now</p></li>
-        <p>中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;&nbsp;&nbsp;信息学院(Informaiton School).</p>
+        <li><p>副教授(Associate Professor), 2021.12--Now</p></li>
+        <p>中央财经大学(Central University of Finance and Economics), 信息学院(Informaiton School).</p>
         <p>讲授课程(Teach courses):</p>
-          <p>&nbsp;&nbsp;人工智能(Artificial Intelligence)、深度学习(Deep Learning)、智能计算(Intelligent Computing)、网络数据采集(Web crawler)等.</p>
-        <li><p>讲师(Assistant Professor)&nbsp;&nbsp;&nbsp;&nbsp;2018.09--2021.11</p></li>
-            <p>中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;&nbsp;&nbsp;信息学院(Informaiton School).</p>
+          <p>--人工智能(Artificial Intelligence), 深度学习(Deep Learning), 智能计算(Intelligent Computing), 网络数据采集(Web crawler)等.</p>
+        <li><p>讲师(Assistant Professor), 2018.09--2021.11</p></li>
+            <p>中央财经大学(Central University of Finance and Economics), 信息学院(Informaiton School).</p>
         <p>讲授课程(Teach courses):</p>
-        <p>&nbsp;&nbsp;人工智能(Artificial Intelligence)、机器学习(Machine Learning)、智能计算、C++、Python等.</p>
-        <li><p>博士后(Post Doctor)&nbsp;&nbsp;&nbsp;&nbsp;2016.08--2018.09</p></li>
-            <p>--中国科学院自动化研究所,&nbsp;&nbsp;模式识别国家重点实验室,&nbsp;&nbsp;导师:&nbsp;&nbsp;王亮.</p>
-            <p>--主要工作:&nbsp;深度神经网络模型加速、图像分割.</p>
+        <p>--人工智能(Artificial Intelligence), 机器学习(Machine Learning), 智能计算, C++, Python等.</p>
+        <li><p>博士后(Post Doctor), 2016.08--2018.09</p></li>
+            <p>中国科学院自动化研究所, 模式识别国家重点实验室, 导师: 王亮.</p>
+            <p>主要工作: 深度神经网络模型加速, 图像分割.</p>
         </ul>
         <p><h3 id="paper"><b>论文列表(Paper list):</b></h3></p>
        <ul type="circle">
