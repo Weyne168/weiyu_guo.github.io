@@ -1,8 +1,8 @@
 <div align='center' ><h1><a href="http://ie.cufe.edu.cn/info/1094/4932.htm">郭韦昱(Weiyu Guo)</a></h1>
  <tr>
-    <td width="100%" align="center" style= "margin: 0cm 0cm 0pt; text-align: left ">
-      <p>邮箱(Email)：weiyu.guo@cufe.edu.cn</p>
-      <p>地址：北京市昌平区，沙河高教园，学院7号313室</p>
+    <td width="50%" align="center" style= "margin: 0cm 0cm 0pt; text-align: left ">
+      <p>邮箱(Email): weiyu.guo@cufe.edu.cn</p>
+      <p>地址: 北京市昌平区, 沙河高教园, 学院7号313室</p>
     </td>
   </tr>
 <table border="0" frame="void">   
