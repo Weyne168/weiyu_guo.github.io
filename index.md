@@ -8,7 +8,7 @@
   </tr>
 
 
-<table border="0">   
+<table border="0" frame="hsides">   
 <tr>
  <td  width="16%"><h3><a href="#interest">研究兴趣</br>Research Interests</a></h3></td>
  <td width="16%"><h3><a href="#education">教育经历</br>Education</a></h3></td>
