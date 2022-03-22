@@ -6,7 +6,7 @@
     </td>
   </tr>
 
-<table border="0" frame="void" style="background-color:#00FF00">   
+<table border="0" frame="void">   
 <tr align='center'>
  <td width="18%"><h3><a href="#interest">研究兴趣<br>Research Interests</a></h3></td>
  <td width="16%"><h3><a href="#education">教育经历<br>Education</a></h3></td>
