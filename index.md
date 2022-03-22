@@ -1,4 +1,5 @@
 <div align='center' ><h1>郭韦昱(Weiyu Guo)</h1>
+ <table border="0">
 <tr>
  <td  width="16%"><h3><a href="#interest">研究兴趣</a></h3></td>
  <td width="16%"><h3><a href="#education">教育经历</a></h3></td>
@@ -7,6 +8,7 @@
  <td width="10%"><h3><a href="#pattern">专利</a></h3></td>
  <td width="16%"><h3><a href="#project">科研项目</a></h3></td>
 </tr>
+</table>
 </div>
 <table border="0">
 
