@@ -21,7 +21,14 @@
 
 </div>
 <table border="0">
-
+ <tr align='center'>
+ <td width="16%"><h3><a href="#interest">研究兴趣</br>Research Interests</a></h3></td>
+ <td width="16%"><h3><a href="#education">教育经历</br>Education</a></h3></td>
+ <td width="16%"><h3><a href="#occupation">工作经历</br>Occupation</a></h3></td>
+ <td width="10%"><h3><a href="#paper">论文</br>Papers</a></h3></td>
+ <td width="10%"><h3><a href="#pattern">专利</br>Patterns</a></h3></td>
+ <td width="16%"><h3><a href="#project">科研项目</br>Research Projects</a></h3></td>
+</tr>
   <tr>
       <td width="100%">
         <p><h3 id="interest"><b>研究兴趣(Research Interests ):</b></h3></p>
