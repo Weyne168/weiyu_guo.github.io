@@ -29,6 +29,7 @@
  <td width="10%"><h3><a href="#pattern">专利</br>Patterns</a></h3></td>
  <td width="16%"><h3><a href="#project">科研项目</br>Research Projects</a></h3></td>
 </tr>
+<table border="0">
   <tr>
       <td width="100%">
         <p><h3 id="interest"><b>研究兴趣(Research Interests ):</b></h3></p>
@@ -104,4 +105,5 @@
       </ul>
       </td>
   </tr>
+  </table>
 </table>
