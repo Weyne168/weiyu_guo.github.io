@@ -38,7 +38,7 @@
         </ul>
         <p><h3><b>论文列表(Paper list):</b></h3></p>
         <ul type="circle">
-          <li><p><b>Weiyu Guo</b>, Jiabin Ma, Yidong Ouyang, Liang Wang and Yongzhen Huang. Efficient Convolutional Networks Learning through Irregular Convolutional Kernels. <i>Neurocomputing</i>, 2022.</p></li>
+          <li><p><b>Weiyu Guo</b>, Jiabin Ma, Yidong Ouyang, Liang Wang and Yongzhen Huang. Efficient Convolutional Networks Learning through Irregular Convolutional Kernels. <i>Neurocomputing</i>, 2022, 489:167-178.</p></li>
         <li><p>Ling Tan, <b>Weiyu Guo</b> and Jinqiu Wang. Workpiece Surface Defect Detection Based on Prototype Network With Blur Pooling. <i>The 40th Chinese Control Conference</i>, 2021.</p></li>
   <li><p>Fu Chen, Yujia Hou, Kun Liu, Wenying Tang, Jianming Zhu and <b>Weiyu Guo</b>. Topic Logistics Based on Node Resource Status. <i>Communications in Computer and Information Science</i>, 2021.</p></li>
   <li><p>Qian Hong, Yue Wang, Huan Li, Yuechen Zhao, <b>Weiyu Guo</b> and Xiuli Wang. Probing Filters to Interpret CNN Semantic Configurations by Occlusion. <i>International Conference of Pioneering Computer Scientists, Engineers and Educators</i>, 2021.</p></li>
@@ -51,7 +51,7 @@
         <li><p>Ma JB, <b>Guo Weiyu</b>, Wang W, et al. RotateConv: Making Asymmetric Convolutional Kernels Rotatable.
 <i>International Conference on Pattern Recognition (ICPR)</i>, August 20-24 2018.</p></li>
        <li><p>Shu Wu, <b>Weiyu Guo</b>, Song Xu, Yongzhen Huang, Liang Wang and Tieniu Tan. Coupled Topic Model for Collaborative Filtering with User-Generated Content. <i>IEEE Transactions on Human-Machine Systems</i>, March, 2016.</p></li>
-       <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Personalized Ranking with Pairwise Factorization Machines. <i>Neurocomputing</i>, March, 2016.</p></li>
+       <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Personalized Ranking with Pairwise Factorization Machines. <i>Neurocomputing</i>, 2016, 214: 191-200.</p></li>
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Social-Relational Topic Model for Social Networks, <i>ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2015.</p></li>
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Adaptive Pairwise Learning for Personalized Ranking with Content and Implicit Feedback. <i>IEEE/WIC International Conference on Web Intelligence (WI)</i>, 2015.</p></li>
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Multiple Attribute Aware Personalized Ranking. <i>Asia Pacific Web Conference (APWeb)</i>, 2015.</p></li>
