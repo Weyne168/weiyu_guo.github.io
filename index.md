@@ -6,7 +6,7 @@
  <td width="16%"><h3><a href="#occupation">工作经历</br>Occupation</a></h3></td>
  <td width="10%"><h3><a href="#paper">论文</br>Papers</a></h3></td>
  <td width="10%"><h3><a href="#pattern">专利</br>Patterns</a></h3></td>
- <td width="16%"><h3><a href="#project">科研项目</br>Projects</a></h3></td>
+ <td width="16%"><h3><a href="#project">科研项目</br>Research Projects</a></h3></td>
 </tr>
 </table>
 </div>
