@@ -1,4 +1,4 @@
-<div align='center' ><h1><img src="avatar_scholar_128.png" width="42" height="42"><a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=13wGmrMAAAAJ">郭韦昱(Weiyu Guo)</a></h1>
+<div align='center' ><h1><p><img src="/img/avatar_scholar_128.png" width="30" height="30">&nbsp;<a href="https://scholar.google.com/citations?view_op=list_works&hl=en&user=13wGmrMAAAAJ">郭韦昱(Weiyu Guo)</a></p></h1>
  <tr>
     <td width="50%" align="center" style= "margin: 0cm 0cm 0pt; text-align: left ">
       <p>邮箱(Email): weiyu.guo@cufe.edu.cn</p>
