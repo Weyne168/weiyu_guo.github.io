@@ -1,9 +1,11 @@
 <div align='center' ><h1>郭韦昱(Weiyu Guo)</h1>
 
-<a href="#biaoti01">标题一</a>
-<a href="#biaoti02">标题二</a>
-<a href="#biaoti03">标题三</a>
-<a href="#biaoti04">标题四</a>
+<h2><a href="#interest">研究兴趣</a></h2>
+<h2><a href="#education">标题二</a></h2>
+<h2><a href="#occupation">标题三</a></h2>
+<h2><a href="#paper">标题四</a></h2>
+<h2><a href="#pattern">标题四</a></h2>
+<h2><a href="#project">标题四</a></h2>
 </div>
 <table border="0">
 
@@ -23,7 +25,7 @@
         <li><p>硕士(Master)&nbsp;(2010.09--2012.07)&nbsp;&nbsp;&nbsp;&nbsp;南京大学,&nbsp;&nbsp;软件工程,&nbsp;&nbsp;导师:&nbsp;&nbsp;王金庆.</p></li>
         <li><p>本科(Bachelor)&nbsp;(2006.09--2010.07)&nbsp;&nbsp;&nbsp;&nbsp;山西大学,&nbsp;&nbsp;计算机科学与技术&工商管理.</p></li>
         </ul>
-       <p><h3 id="occupation"><b>工作经历:</b></h3></p>
+       <p><h3 id="occupation"><b>工作经历(Occupation):</b></h3></p>
         <ul type="circle">
         <li><p>副教授(Associate Professor)&nbsp;&nbsp;&nbsp;&nbsp;2021.12--Now</p></li>
         <p>--中央财经大学(Central University of Finance and Economics),&nbsp;&nbsp;&nbsp;&nbsp;信息学院(Informaiton School).</p>
