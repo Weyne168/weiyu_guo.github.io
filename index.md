@@ -1,11 +1,14 @@
 <div align='center' ><h1>郭韦昱(Weiyu Guo)</h1>
-
-<h2><a href="#interest">研究兴趣</a></h2>
-<h2><a href="#education">标题二</a></h2>
-<h2><a href="#occupation">标题三</a></h2>
-<h2><a href="#paper">标题四</a></h2>
-<h2><a href="#pattern">标题四</a></h2>
-<h2><a href="#project">标题四</a></h2>
+<table border="0">
+<tr>
+ <td><h2><a href="#interest">研究兴趣</a></h2></td>
+  <td><h2><a href="#education">教育经历</a></h2></td>
+  <td><h2><a href="#occupation">工作经历</a></h2></td>
+  <td><h2><a href="#paper">论文</a></h2></td>
+  <td><h2><a href="#pattern">专利</a></h2></td>
+  <td><h2><a href="#project">科研项目</a></h2></td>
+</tr>
+</table>
 </div>
 <table border="0">
 
