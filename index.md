@@ -13,7 +13,7 @@
  <td width="16%"><h3><a href="#occupation">工作经历Occupation</a></h3></td>
  <td width="8%"><h3><a href="#paper">论文Papers</a></h3></td>
  <td width="8%"><h3><a href="#pattern">专利Patterns</a></h3></td>
- <td width="18%"><h3><a href="#project">科研项目&nbsp;&nbsp;&nbsp;&nbsp;Research Projects</a></h3></td>
+ <td width="18%"><h3><a href="#project">科研项目&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Research Projects</a></h3></td>
 </tr>
 </table>
 </div>
