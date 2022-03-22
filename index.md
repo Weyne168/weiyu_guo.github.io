@@ -10,7 +10,7 @@
 
 <table border="0" frame="below">   
 <tr>
- <td width="16%" style="border-left-style:none; border-right-style:none"><h3><a href="#interest">研究兴趣</br>Research Interests</a></h3></td>
+ <td width="16%" style="border-left-style:none"><h3><a href="#interest">研究兴趣</br>Research Interests</a></h3></td>
  <td width="16%"><h3><a href="#education">教育经历</br>Education</a></h3></td>
  <td width="16%"><h3><a href="#occupation">工作经历</br>Occupation</a></h3></td>
  <td width="10%"><h3><a href="#paper">论文</br>Papers</a></h3></td>
