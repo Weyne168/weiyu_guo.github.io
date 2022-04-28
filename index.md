@@ -49,7 +49,7 @@
         </ul>
         <p><h3 id="paper"><b>论文列表(Paper list):</b></h3></p>
        <ul type="circle">
-         <li><p>Shangpeng Yang, <b>Weiyu Guo</b>, Yuheng Reng. CrowdFormer: An Overlap Patching Vision Transformer for Top-Down Crowd Counting. <i>The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI) </i>, 2022.</p></li>
+         <li><p>Shangpeng Yang, <b>Weiyu Guo^{*}</b>, Yuheng Reng. CrowdFormer: An Overlap Patching Vision Transformer for Top-Down Crowd Counting. <i>The 31st International Joint Conference on Artificial Intelligence and the 25th European Conference on Artificial Intelligence (IJCAI-ECAI) </i>, 2022.</p></li>
           <li><p><b>Weiyu Guo</b>, Jiabin Ma, Yidong Ouyang, Liang Wang and Yongzhen Huang. Efficient Convolutional Networks Learning through Irregular Convolutional Kernels. <i>Neurocomputing</i>, 2022, 489:167-178.</p></li>
         <li><p>Ling Tan, <b>Weiyu Guo</b> and Jinqiu Wang. Workpiece Surface Defect Detection Based on Prototype Network With Blur Pooling. <i>The 40th Chinese Control Conference</i>, 2021.</p></li>
   <li><p>Fu Chen, Yujia Hou, Kun Liu, Wenying Tang, Jianming Zhu and <b>Weiyu Guo</b>. Topic Logistics Based on Node Resource Status. <i>Communications in Computer and Information Science</i>, 2021.</p></li>
