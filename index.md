@@ -29,7 +29,7 @@
           <p>中小企业信用评估(Sme credit assessment), 经济策略仿真与建模(Economic strategy simulation and modeling), 个性化推荐(Personalized recommendation)</p></ul>
        <p><h3 id="education"><b>教育经历(Education):</b></h3></p>
        <ul type="circle">
-       <li><p>博士(Phd), 2012.09--2016.07, 中国科学院大学(原中国科学院研究生院), 计算机应用, <a href="http://tantieniu.cas.cn">导师: 谭铁牛</a>.</p></li>
+       <li><p>博士(Phd), 2012.09--2016.07, 中国科学院大学(原中国科学院研究生院), 计算机应用, <a href="https://baike.baidu.com/item/%E8%B0%AD%E9%93%81%E7%89%9B/5637584?fr=aladdin">导师: 谭铁牛</a>.</p></li>
         <li><p>硕士(Master), 2010.09--2012.07, 南京大学, 软件工程, 导师: 王金庆.</p></li>
         <li><p>本科(Bachelor), 2006.09--2010.07, 山西大学, 计算机科学与技术&工商管理.</p></li>
         </ul>
