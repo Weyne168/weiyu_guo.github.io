@@ -29,9 +29,9 @@
           <p>中小企业信用评估(Sme credit assessment), 经济策略仿真与建模(Economic strategy simulation and modeling), 个性化推荐(Personalized recommendation)</p></ul>
        <p><h3 id="education"><b>教育经历(Education):</b></h3></p>
        <ul type="circle">
-       <li><p>博士(Phd), 2012.09--2016.07, 中国科学院大学(原中国科学院研究生院), 计算机应用, <a href="https://auto.ustc.edu.cn/2021/0510/c25976a484892/page.htm">导师: 谭铁牛</a>.</p></li>
-        <li><p>硕士(Master), 2010.09--2012.07, 南京大学, 软件工程, 导师: 王金庆.</p></li>
-        <li><p>本科(Bachelor), 2006.09--2010.07, 山西大学, 计算机科学与技术&工商管理.</p></li>
+       <li><p>博士(Phd), 2012.09--2016.07, 中国科学院大学(University of Chinese Academy of Sciences, 原中国科学院研究生院), 计算机应用(Computer Science), <a href="https://auto.ustc.edu.cn/2021/0510/c25976a484892/page.htm">导师: 谭铁牛</a>.</p></li>
+        <li><p>硕士(MS), 2010.09--2012.07, 南京大学(Nanjing University, P.R. China), 软件工程(Software Engineering), 导师: 王金庆.</p></li>
+        <li><p>本科(BS), 2006.09--2010.07, 山西大学(Shanxi University, P.R. China), 计算机科学与技术(Computer Science)&工商管理(Business Administration).</p></li>
         </ul>
        <p><h3 id="occupation"><b>工作经历(Occupation):</b></h3></p>
         <ul type="circle">
@@ -44,8 +44,8 @@
         <p>讲授课程(Teach courses):</p>
         <p>--人工智能(Artificial Intelligence), 机器学习(Machine Learning), 智能计算, C++, Python等.</p>
         <li><p>博士后(Post Doctor), 2016.08--2018.09</p></li>
-            <p>中国科学院自动化研究所, 模式识别国家重点实验室, 导师: 王亮.</p>
-            <p>主要工作: 深度神经网络模型加速, 图像分割.</p>
+            <p>中国科学院自动化研究所(Institute of Automation，Chinese Academy of Sciences), 模式识别国家重点实验室, 导师: 王亮.</p>
+            <p>主要工作: 深度神经网络模型加速(Deep neural network acceleration), 图像分割(Image segementation).</p>
         </ul>
         <p><h3 id="paper"><b>论文列表(Paper list):</b></h3></p>
        <ul type="circle">
