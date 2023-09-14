@@ -68,7 +68,7 @@
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Social-Relational Topic Model for Social Networks, <i>ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2015. <a href=".">[code]</a>, <a href="https://dl.acm.org/doi/abs/10.1145/2806416.2806611">[paper]</a></p></li>
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Adaptive Pairwise Learning for Personalized Ranking with Content and Implicit Feedback. <i>IEEE/WIC International Conference on Web Intelligence (WI)</i>, 2015. <a href=".">[code]</a>, <a href="https://ieeexplore.ieee.org/abstract/document/7396833">[paper]</a></p></li>
        <li><p><b>Weiyu Guo</b>, Shu Wu, Liang Wang and Tieniu Tan. Multiple Attribute Aware Personalized Ranking. <i>Asia Pacific Web Conference (APWeb)</i>, 2015. <a href=".">[code]</a>, <a href="https://link.springer.com/chapter/10.1007/978-3-319-25255-1_20">[paper]</a></p></li>
-       <li><p>李双红; 李茹; 钟立军; <b>郭韦昱</b>. 基于多词块的框架元素语义核心词自动识别研究. <i>中文信息学报</i>, 2010, 24(1).</p></li></ul>
+       <li><p>李双红; 李茹; 钟立军; <b>郭韦昱</b>.  基于多词块的框架元素语义核心词自动识别研究. <i>中文信息学报</i>, 2010, 24(1).</p></li></ul>
       <p><h3 id="pattern"><b>专利(Patent list):</b></h3></p>
       <ul type="circle">
       <li><p><b>郭韦昱</b>;李肖;王秀利;王悦.人体骨骼关节点提取模型的训练数据生成方法及装置. 专利(申请)号:202111644931.1.</p></li>
